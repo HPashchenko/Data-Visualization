@@ -1,3 +1,5 @@
 *.csv
 *.7z
 baywheels-data/
+.ipynb_checkpoints/
+

@@ -1,4 +1,6 @@
-# Data-Visualization
+# Ford GoBike System Exploration
+
+## Dataset
 This database consists of the information of approximately 7M bike riders from 2017-2020 years, including the duration_sec, the trip start/end time, start/end name station, main information as user_type, and additional information as Longitude and Latitude. The dimension of the dataset was reduced, approximately 2M rows were dropped from the analysis due to missing information(NaN)
 
 ## Summary of Findings
